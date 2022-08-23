@@ -2,15 +2,13 @@ const namee = document.getElementById("namee");
 const number = document.getElementById("number");
 const message = document.getElementById("message");
 const form = document.getElementById("submit-form");
-const btn = document.getElementById("btn");
 const Email = document.getElementById("email");
 
-const loading = document.getElementById("loading");
+
 
 const nameL = document.getElementById("name-l");
 const numberL = document.getElementById("number-l");
 const messageL = document.getElementById("messageL");
-const messL = document.getElementById("messageL");
 const emailL = document.getElementById("email-l");
 
 let val = 0;
